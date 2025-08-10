@@ -26,7 +26,7 @@ WikiFinder is a performant, client-centric Single Page Application (SPA) archite
 ## Installation & Usage
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/wikifinder.git](https://github.com/yourusername/wikifinder.git)
+    git clone []()
     ```
 2.  📂 Open the **`index.html`** file in any modern web browser (e.g., Chrome, Firefox, Edge).
 3.  🔎 Enter your **search query** into the input field and submit to fetch real-time Wikipedia results.
